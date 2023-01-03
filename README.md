@@ -7,7 +7,7 @@
 - estudo sobre WebScraping e outras técnicas:heavy_check_mark:
 - uma brincadeira entre amigos:heavy_check_mark:
 
-***Programas Necessários***
+***Programas Utilizados***
 >python
 
 >mysql
