@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<lolListinha>
+    <BOT>
+        <TOKEN>DISCORD_BOT_TOKEN</TOKEN>
+    </BOT>
+    
+    <MYSQL>
+        <HOST>HOST</HOST>
+        <DATABASE>DATABASE</DATABASE>
+        <USER>USER</USER>
+        <PASSWORD>ADMIN</PASSWORD>
+    </MYSQL>
+
+</lolListinha>
